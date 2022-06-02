@@ -83,7 +83,7 @@ container.addEventListener("click", (e) => {
   }
 }); */
 
-const container = document.querySelector(".container");
+/* const container = document.querySelector(".container");
 container.addEventListener("click", (e) => {
   // console.log(e.target.id);
 
@@ -101,4 +101,4 @@ container.addEventListener("click", (e) => {
   if (e.target.dataset.div === "divNieto") {
     console.log("diste click al nieto");
   }
-});
+}); */
